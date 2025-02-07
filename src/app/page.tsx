@@ -9,7 +9,7 @@ export default function Home() {
       <section className="flex justify-around">
         <div className=" py-28">
           <h3 className="text-5xl font-serif text-white py-3 ">Hi,</h3>
-          <h3 className="text-5xl font-serif text-white py-3 ">I&#39;m Muzna Khan</h3>
+          <h3 className="text-5xl font-serif text-white py-3 ">I&#39;m Saqiba kaleem</h3>
           <h3 className="text-5xl font-serif text-white py-3 ">I&#39;m frontend developer</h3>
 
           <button className="bg-amber-700 text-white font-semibold py-2 px-9 rounded-full mt-9 ml-28">Contact us</button>
